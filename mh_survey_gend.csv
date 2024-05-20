@@ -1,0 +1,501 @@
+Physical_Activity,Sleep_Duration,Quality_of_Sleep,Food_consumption,Social,Screen_Time,Productivity,mood,Description
+7,7,6,8,7,6,7,8,"I had a productive day, spent quality time with family and friends"
+5,9,8,7,6,9,5,8,"I had a great day, explored a new hiking trail and enjoyed the outdoors"
+9,8,9,7,8,5,8,9,"I had a very pleasant day, celebrated a friend's birthday and had a great time"
+3,6,7,8,5,7,5,7,"Had a productive day, attended a cultural event and appreciated the arts"
+8,7,6,5,7,8,6,8,"Enjoyed a productive day, cooked a new recipe and had a relaxing evening"
+6,8,9,8,7,9,7,9,"Had an eventful day, attended a concert and met new people"
+4,9,8,6,7,6,8,7,Went for a hike and had a productive day outdoors
+10,8,7,8,9,7,8,9,"I had a busy day, completed a major project and felt accomplished"
+2,6,6,8,6,5,6,7,"Had a good day, visited a new art exhibition and enjoyed the creativity"
+7,9,8,5,8,6,7,8,Went on a road trip and had a fun-filled day with friends
+5,7,7,8,6,7,7,8,"Explored a new city and experienced diverse cultures, felt enlightened"
+9,8,9,8,10,7,9,8,"Attended a sports event and cheered for the home team, felt energetic"
+3,6,7,9,7,8,7,8,Took a dance class and had a fun-filled evening with friends
+8,7,5,8,5,6,5,5,Attended a cultural festival and had a productive day
+6,9,9,7,8,7,9,8,"I had a very hectic day, completed multiple tasks and felt accomplished"
+4,8,7,6,7,5,6,7,"Spent a relaxing day at a spa, rejuvenated and refreshed"
+9,8,9,8,10,7,9,8,"Participated in a charity run and supported a noble cause, felt gratified"
+5,7,8,6,7,5,7,6,"Explored a new hobby and felt a sense of accomplishment, a fulfilling day"
+8,8,5,4,6,10,5,6,Went to temple and had a productive day ahead
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+6,7,8,9,9,4,4,8,Fine
+8,7,5,8,5,6,5,5,Normal days..
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had a very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,"It was stressful, don't know why"
+7,7,5,7,6,8,8,8,I had an eventful day.
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments.
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day.
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough hr interview today
+5,10,5,7,3,10,3,5,"Nothing, just went shopping then went for food and done with the day"
+3,5,4,7,3,10,6,4,I didn't have a productive day
+8,8,5,4,6,10,5,6,"It was a good day, went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days..
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had a very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,"It was stressful, don't know why"
+7,7,5,7,6,8,8,8,I had an eventful day.
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments.
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day.
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough hr interview today
+5,10,5,7,3,10,3,5,"Nothing, just went shopping then went for food and done with the day"
+3,5,4,7,3,10,6,4,I didn't have a productive day
+8,8,5,4,6,10,5,6,"It was a good day, went to a cultural festival and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, spent time with family and friends, and enjoyed a peaceful day"
+4,7,7,5,6,8,6,8,I went hiking and explored a new trail
+4,7,8,9,9,4,4,8,"Fine, had a relaxing day at the beach"
+6,6,9,7,7,5,7,8,"Had a productive day, attended a workshop and learned something new"
+8,7,5,8,5,6,5,5,"Normal days, went to a local art exhibition and had a relaxing evening"
+9,8,10,10,7,4,6,9,"I had a well planned day, celebrated a friend's birthday and enjoyed a fun-filled day"
+6,8,7,5,6,5,3,7,I explored a new city and tried out different local cuisines
+9,8,10,8,10,7,9,10,I had a very pleasant day as I met my old friends today and explored a new museum
+7,9,9,7,6,9,7,8,"Good, enjoyed a cultural event and had a great time"
+10,4,5,8,9,10,7,8,"I had a productive day, visited a historical site and had a wonderful time"
+4,6,7,7,8,5,7,8,"I had a peaceful day, spent time in nature and had a relaxing day"
+7,6,8,5,7,7,5,8,"I had a productive day, participated in a local community event and made new friends"
+10,7,7,5,4,6,5,4,"Could've been much better, had a busy day at work and felt exhausted"
+3,5,4,8,8,8,8,5,"It was stressful, don't know why, had a challenging day at a cultural event"
+7,7,5,7,6,8,8,8,"I had an eventful day, attended a music concert and had an amazing time"
+1,11,10,8,5,6,5,5,"No day, may be wasteful day, felt unwell and stayed at home"
+6,9,9,7,1,8,4,5,I started something new (playing chess) and had a relaxing day at home
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments and attended a cultural festival
+4,6,3,5,10,10,1,1,"I cried because of some Politics, had a stressful day at work"
+9,7,8,2,7,9,7,8,"I had a productive day, went to a local fair and enjoyed the day"
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue, had a challenging day at work and felt exhausted"
+7,7,6,6,5,4,8,7,"I had a productive day, completed a major project at work and felt accomplished"
+2,5,3,3,4,9,3,4,"I had a rough hr interview today, felt stressed and anxious"
+5,10,5,7,3,10,3,5,"Nothing, just went shopping then went for food and done with the day, had a relaxing day"
+3,5,4,7,3,10,6,4,"I didn't have a productive day, felt overwhelmed and stressed"
+8,8,5,4,6,10,5,6,"It was a good day, went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,it was stressful don't know why
+7,7,5,7,6,8,8,8,I had an eventful day.
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments.
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day.
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough hr interview today
+5,10,5,7,3,10,3,5,Nothing just went on shopping then went for food nd done with day
+3,5,4,7,3,10,6,4,I didn't had a productive day
+8,8,5,4,6,10,5,6,"It was a good , went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,it was stressful don't know why
+7,7,5,7,6,8,8,8,I had an eventful day.
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments.
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day.
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough hr interview today
+5,10,5,7,3,10,3,5,Nothing just went on shopping then went for food nd done with day
+3,5,4,7,3,10,6,4,I didn't had a productive day
+8,8,5,4,6,10,5,6,"It was a good day, went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had a very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,"It was stressful, don't know why"
+7,7,5,7,6,8,8,8,I had an eventful day
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments
+4,6,3,5,10,10,1,1,I cried because of some politics
+9,7,8,2,7,9,7,8,I had a productive day
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough HR interview today
+5,10,5,7,3,10,3,5,"Nothing, just went shopping then went for food and done with the day"
+3,5,4,7,3,10,6,4,I didn't have a productive day
+8,8,5,4,6,10,5,6,"It was a good day, went to the beach and had a relaxing day"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to the museum and explored new exhibits
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day at work
+8,7,5,8,5,6,5,5,"Normal day, nothing special happened"
+9,8,10,10,7,4,6,9,I had a well planned day with family and friends
+6,8,7,5,6,5,3,7,I binged my favorite show and relaxed at home
+9,8,10,8,10,7,9,10,I had a very pleasant day as I explored a new city
+7,9,9,7,6,9,7,8,"Good day, spent time with loved ones"
+10,4,5,8,9,10,7,8,"I had a productive day, finished a project ahead of schedule"
+4,6,7,7,8,5,7,8,"I had a peaceful day, went for a long walk in the park"
+7,6,8,5,7,7,5,8,"I had a productive day, met new people and made new friends"
+10,7,7,5,4,6,5,4,"Could've been much better, had a disagreement with a colleague"
+3,5,4,8,8,8,8,5,"It was stressful, don't know why"
+7,7,5,7,6,8,8,8,"I had an eventful day, attended a concert and had fun"
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,"I started something new, began learning a new language"
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to attend multiple meetings
+4,6,3,5,10,10,1,1,I cried because of some personal issues
+9,7,8,2,7,9,7,8,"I had a productive day, completed all my tasks efficiently"
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,"I had a productive day, accomplished all my goals"
+2,5,3,3,4,9,3,4,I had a rough job interview today
+5,10,5,7,3,10,3,5,"Nothing, just went shopping then went for food and done with the day"
+3,5,4,7,3,10,6,4,"I didn't have a productive day, felt unmotivated"
+8,8,5,4,6,10,5,6,"It was a good day, went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days..
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,It was stressful don't know why
+7,7,5,7,6,8,8,8,I had an eventful day.
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments.
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day.
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough hr interview today
+5,10,5,7,3,10,3,5,Nothing just went on shopping then went for food nd done with day
+3,5,4,7,3,10,6,4,I didn't had a productive day
+8,9,6,5,8,8,7,6,"Had a good day, went for a hike and enjoyed nature"
+6,7,8,9,4,5,8,7,"I had a peaceful day, spent time painting and relaxing"
+5,8,7,6,9,7,6,8,"I had a great day, went for a concert and had fun"
+7,6,5,8,9,10,7,8,"I had a productive day, finished all my tasks early"
+9,8,7,6,5,4,7,6,"Started a new book, had a relaxing day at home"
+4,5,9,7,8,6,8,7,"Good day, went out for a picnic and enjoyed with friends"
+3,7,6,5,6,9,8,7,"Had a productive day, completed all my work ahead of schedule"
+10,7,8,5,6,7,5,6,"Could've been better, had a small argument with a family member"
+8,8,5,4,7,6,7,5,"It was a tiring day, but managed to finish all my tasks"
+6,9,10,8,9,5,9,10,"I had an amazing day, celebrated a friend's birthday"
+5,8,6,7,5,10,7,9,"I had a productive day, accomplished all my goals ahead of time"
+7,9,8,6,7,8,6,8,"Had a good day, went for a movie and enjoyed with friends"
+2,10,9,7,8,5,8,7,"I had a productive day, learned a new skill"
+9,6,7,8,5,7,5,7,"Relaxing day, spent time at the beach and had fun"
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,"I started something new, began learning a new language"
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to attend multiple meetings
+4,6,3,5,10,10,1,1,I cried because of some personal issues
+9,7,8,2,7,9,7,8,"I had a productive day, completed all my tasks efficiently"
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,"I had a productive day, accomplished all my goals"
+2,5,3,3,4,9,3,4,I had a rough job interview today
+5,10,5,7,3,10,3,5,"Nothing, just went shopping then went for food and done with the day"
+3,5,4,7,3,10,6,4,"I didn't have a productive day, felt unmotivated"
+8,8,5,4,6,10,5,6,"It was a good day, went for a hike and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and attended classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,"Normal day, nothing special"
+9,8,10,10,7,4,6,9,I had a well-planned day
+6,8,7,5,6,5,3,7,I binged my favorite show
+9,8,10,8,10,7,9,10,I had a very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,"It was stressful, don't know why"
+7,7,5,7,6,8,8,8,I had an eventful day
+1,11,10,8,5,6,5,5,"No day, maybe a wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments
+4,6,3,5,10,10,1,1,I cried because of some politics
+9,7,8,2,7,9,7,8,I had a productive day
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough HR interview today
+5,10,5,7,3,10,3,5,"Nothing, just went shopping then went for food and done with the day"
+3,5,4,7,3,10,6,4,I didn't have a productive day
+8,9,6,5,8,8,7,6,"Had a good day, went for a hike and enjoyed nature"
+6,7,8,9,4,5,8,7,"I had a peaceful day, spent time painting and relaxing"
+5,8,7,6,9,7,6,8,"I had a great day, went for a concert and had fun"
+7,6,5,8,9,10,7,8,"I had a productive day, finished all my tasks early"
+9,8,7,6,5,4,7,6,"Started a new book, had a relaxing day at home"
+4,5,9,7,8,6,8,7,"Good day, went out for a picnic and enjoyed with friends"
+3,7,6,5,6,9,8,7,"Had a productive day, completed all my work ahead of schedule"
+10,7,8,5,6,7,5,6,"Could've been better, had a small argument with a family member"
+8,8,5,4,7,6,7,5,"It was a tiring day, but managed to finish all my tasks"
+6,9,10,8,9,5,9,10,"I had an amazing day, celebrated a friend's birthday"
+5,8,6,7,5,10,7,9,"I had a productive day, accomplished all my goals ahead of time"
+7,9,8,6,7,8,6,8,"Had a good day, went for a movie and enjoyed with friends"
+2,10,9,7,8,5,8,7,"I had a productive day, learned a new skill"
+9,6,7,8,5,7,5,7,"Relaxing day, spent time at the beach and had fun"
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,"I started something new, began learning a new language"
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to attend multiple meetings
+4,6,3,5,10,10,1,1,I cried because of some personal issues
+9,7,8,2,7,9,7,8,"I had a productive day, completed all my tasks efficiently"
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,"I had a productive day, accomplished all my goals"
+2,5,3,3,4,9,3,4,I had a rough job interview today
+5,10,5,7,3,10,3,5,"Nothing, just went shopping then went for food and done with the day"
+3,5,4,7,3,10,6,4,"I didn't have a productive day, felt unmotivated"
+8,8,5,4,6,10,5,6,"It was a good day, went for a hike and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and attended classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,"Normal day, nothing special"
+9,8,10,10,7,4,6,9,I had a well-planned day
+6,8,7,5,6,5,3,7,I binged my favorite show
+9,8,10,8,10,7,9,10,I had a very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,"It was stressful, don't know why"
+7,7,5,7,6,8,8,8,I had an eventful day
+1,11,10,8,5,6,5,5,"No day, maybe a wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments
+4,6,3,5,10,10,1,1,I cried because of some politics
+9,7,8,2,7,9,7,8,I had a productive day
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough HR interview today
+8,8,5,4,6,10,5,6,"It was a good day, went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,"It was stressful, don't know why"
+7,7,5,7,6,8,8,8,I had an eventful day
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough hr interview today
+5,10,5,7,3,10,3,5,Nothing just went on shopping then went for food nd done with day
+3,5,4,7,3,10,6,4,I didn't had a productive day
+11,6,6,8,9,5,9,8,"Had a great day, attended a music concert and enjoyed with friends"
+8,8,5,7,5,10,7,9,Enjoyed a day at the beach and had a wonderful time
+5,9,7,6,8,8,6,8,"I had a good day, went for a hike and enjoyed the scenic beauty"
+7,10,9,7,7,6,5,7,"I had a productive day, accomplished all my goals"
+3,8,7,9,6,7,5,7,"Fine, attended a cultural event and had a great time"
+6,7,5,8,7,5,3,7,I binged my favorite show and relaxed
+9,9,10,8,10,7,9,10,I had a very pleasant day as I met my old friends today
+8,7,8,7,6,9,7,8,"Good, attended a family gathering and had fun"
+10,5,6,8,9,10,7,8,"I had a productive day, accomplished all my goals ahead of time"
+4,8,7,7,8,5,7,8,"I had a peaceful day, spent time at the park and relaxed"
+7,6,8,5,7,7,5,8,"I had a productive day, completed all my tasks efficiently"
+10,7,7,5,4,6,5,4,"Could've been much better, faced some unexpected challenges"
+3,5,4,8,8,8,8,5,"It was stressful, don't know why"
+7,7,5,7,6,8,8,8,"I had an eventful day, went for a road trip and had fun"
+11,1,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,"I started something new, began learning a new language"
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to attend multiple meetings
+4,6,3,5,10,10,1,1,I cried because of some personal issues
+9,7,8,2,7,9,7,8,"I had a productive day, completed all my tasks efficiently"
+1,10,1,5,8,7,6,2,"Stressed, tired, fatigue"
+7,7,6,6,5,4,8,7,"I had a productive day, accomplished all my goals"
+2,5,3,3,4,9,3,4,I had a rough job interview today
+5,10,5,7,3,10,3,5,"Nothing, just went shopping then went for food and done with the day"
+3,5,4,7,3,10,6,4,"I didn't have a productive day, felt unmotivated"
+8,8,5,4,6,10,5,6,"It was a good day, went for a hike and then had a productive day ahead"
+8,8,5,4,6,10,5,6,"It was a good , went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days..
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,it was stressful don't know why
+7,7,5,7,6,8,8,8,I had an eventful day.
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments.
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day.
+1,10,1,5,8,7,6,2,"Stressed , tired , fatigue ,"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough hr interview today
+5,10,5,7,3,10,3,5,Nothing just went on shopping then went for food nd done with day
+3,5,4,7,3,10,6,4,I didn't had a productive day
+8,8,5,4,6,10,5,6,"It was a good , went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days..
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,it was stressful don't know why
+7,7,5,7,6,8,8,8,I had an eventful day.
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments.
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day.
+1,10,1,5,8,7,6,2,"Stressed , tired , fatigue ,"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough hr interview today
+5,10,5,7,3,10,3,5,Nothing just went on shopping then went for food nd done with day
+3,5,4,7,3,10,6,4,I didn't had a productive day
+8,8,5,4,6,10,5,6,"It was a good day, went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days..
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,it was stressful don't know why
+7,7,5,7,6,8,8,8,I had an eventful day.
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments.
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day.
+1,10,1,5,8,7,6,2,"Stressed , tired , fatigue ,"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough hr interview today
+5,10,5,7,3,10,3,5,Nothing just went on shopping then went for food nd done with day
+3,5,4,7,3,10,6,4,I didn't had a productive day
+8,8,5,4,6,10,5,6,"It was a good day, went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+4,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days..
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,it was stressful don't know why
+7,7,5,7,6,8,8,8,I had an eventful day.
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments.
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day.
+1,10,1,5,8,7,6,2,"Stressed , tired , fatigue ,"
+7,7,6,6,5,4,8,7,I had a productive day
+2,5,3,3,4,9,3,4,I had a rough hr interview today
+5,10,5,7,3,10,3,5,Nothing just went on shopping then went for food nd done with day
+3,5,4,7,3,10,6,4,I didn't had a productive day
+8,8,5,4,6,10,5,6,"It was a good day, went to temple and then had a productive day ahead"
+1,9,7,7,5,9,3,9,"I had a great day, nothing interesting happened, I spent it like my usual days"
+4,7,7,5,6,8,6,8,I went to college and took classes
+6,7,8,9,9,4,4,8,Fine
+6,6,9,7,7,5,7,8,Had a productive day
+8,7,5,8,5,6,5,5,Normal days..
+9,8,10,10,7,4,6,9,I had a well planned day
+6,8,7,5,6,5,3,7,I binged my favourite show
+9,8,10,8,10,7,9,10,I had very pleasant day as I met my old friends today
+7,9,9,7,6,9,7,8,Good
+10,4,5,8,9,10,7,8,I had a productive day
+4,6,7,7,8,5,7,8,I had a peaceful day
+7,6,8,5,7,7,5,8,I had a productive day
+10,7,7,5,4,6,5,4,Could've been much better
+3,5,4,8,8,8,8,5,It was stressful don't know why
+7,7,5,7,6,8,8,8,I had an eventful day.
+1,11,10,8,5,6,5,5,"No day, may be wasteful day"
+6,9,9,7,1,8,4,5,I started something new (playing chess)
+10,8,9,8,10,7,9,8,I had a very hectic day as I had to submit 3-4 assignments.
+4,6,3,5,10,10,1,1,I cried because of some Politics
+9,7,8,2,7,9,7,8,I had a productive day.
+1,10,1,5,8,7,6,2,"Stressed , tired , fatigue ,"
